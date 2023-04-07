@@ -1,0 +1,35 @@
+body
+{
+  color:rgb(14, 157, 245);
+  background: rgb(107, 214, 252);
+  font-family: 'Courier New', Courier, monospace;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 5px dotted gray;
+  width: 350px;
+  height: 300px; 
+  border-radius: 5px;
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.hi{
+  background-color:white;
+  border-radius: 10px;
+
+}
